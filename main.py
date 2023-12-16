@@ -49,6 +49,7 @@ async def root():
             <head>
                 <title>Switch Bot</title>
                 <link rel='stylesheet' href='https://w3schools.com/w3css/4/w3.css'>
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
             </head>
             <body>
                 <div class='w3-container w3-blue w3-xxlarge'>Humidity and Temperature of <b>The Palace</b></div>
